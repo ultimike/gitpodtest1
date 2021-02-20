@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cb81506d47ad84e601ca9fd9224f6ddf",
+    "content-hash": "ae5259ccb8f22da1a43a015aad8c77b9",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4458,12 +4458,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ultimike/ddevdrupalgitpod.git",
-                "reference": "b9de2b60a238d769cdd0cea59fe07788922f05e9"
+                "reference": "a051ef483dc03bc95dac33ab60edd2e3bd4f3b7c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ultimike/ddevdrupalgitpod/zipball/b9de2b60a238d769cdd0cea59fe07788922f05e9",
-                "reference": "b9de2b60a238d769cdd0cea59fe07788922f05e9",
+                "url": "https://api.github.com/repos/ultimike/ddevdrupalgitpod/zipball/a051ef483dc03bc95dac33ab60edd2e3bd4f3b7c",
+                "reference": "a051ef483dc03bc95dac33ab60edd2e3bd4f3b7c",
                 "shasum": ""
             },
             "require": {
@@ -4495,7 +4495,7 @@
                 "source": "https://github.com/ultimike/ddevdrupalgitpod/tree/main",
                 "issues": "https://github.com/ultimike/ddevdrupalgitpod/issues"
             },
-            "time": "2021-02-20T19:59:06+00:00"
+            "time": "2021-02-20T20:52:27+00:00"
         }
     ],
     "packages-dev": [],
