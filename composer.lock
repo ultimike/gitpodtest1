@@ -4458,16 +4458,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ultimike/ddevdrupalgitpod.git",
-                "reference": "a051ef483dc03bc95dac33ab60edd2e3bd4f3b7c"
+                "reference": "0900895a74fdbc04a194323018ec54a2432e6f13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ultimike/ddevdrupalgitpod/zipball/a051ef483dc03bc95dac33ab60edd2e3bd4f3b7c",
-                "reference": "a051ef483dc03bc95dac33ab60edd2e3bd4f3b7c",
+                "url": "https://api.github.com/repos/ultimike/ddevdrupalgitpod/zipball/0900895a74fdbc04a194323018ec54a2432e6f13",
+                "reference": "0900895a74fdbc04a194323018ec54a2432e6f13",
                 "shasum": ""
             },
             "require": {
-                "drupal/core-composer-scaffold": "^9.0"
+                "drupal/core-composer-scaffold": "^8.8 || ^9.0"
             },
             "default-branch": true,
             "type": "library",
@@ -4477,7 +4477,11 @@
                         ".gitpod.yml": ".gitpod.yml",
                         ".gitpod.Dockerfile": ".gitpod.Dockerfile",
                         ".ddev/generate-fqdns.sh": "generate-fqdns.sh",
-                        ".ddev/generate-xdebug-host-ip.sh": "generate-xdebug-host-ip.sh"
+                        ".ddev/generate-xdebug-host-ip.sh": "generate-xdebug-host-ip.sh",
+                        ".ddev/ddevdrupalgitpod.txt": {
+                            "path": "ddevdrupalgitpod.txt",
+                            "overwrite": false
+                        }
                     }
                 }
             },
@@ -4495,7 +4499,7 @@
                 "source": "https://github.com/ultimike/ddevdrupalgitpod/tree/main",
                 "issues": "https://github.com/ultimike/ddevdrupalgitpod/issues"
             },
-            "time": "2021-02-20T20:52:27+00:00"
+            "time": "2021-02-21T19:11:46+00:00"
         }
     ],
     "packages-dev": [],
