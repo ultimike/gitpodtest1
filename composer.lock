@@ -4458,12 +4458,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ultimike/ddevdrupalgitpod.git",
-                "reference": "0900895a74fdbc04a194323018ec54a2432e6f13"
+                "reference": "6c94b400424aff661521a2b8eb7ac8137f91eebd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ultimike/ddevdrupalgitpod/zipball/0900895a74fdbc04a194323018ec54a2432e6f13",
-                "reference": "0900895a74fdbc04a194323018ec54a2432e6f13",
+                "url": "https://api.github.com/repos/ultimike/ddevdrupalgitpod/zipball/6c94b400424aff661521a2b8eb7ac8137f91eebd",
+                "reference": "6c94b400424aff661521a2b8eb7ac8137f91eebd",
                 "shasum": ""
             },
             "require": {
@@ -4499,7 +4499,7 @@
                 "source": "https://github.com/ultimike/ddevdrupalgitpod/tree/main",
                 "issues": "https://github.com/ultimike/ddevdrupalgitpod/issues"
             },
-            "time": "2021-02-21T19:11:46+00:00"
+            "time": "2021-02-23T21:06:12+00:00"
         }
     ],
     "packages-dev": [],
